@@ -1,51 +1,47 @@
-### Happy Day! 👋
+### Greetings! 👋
 
-<!--
-**Chandraprakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 19-year-old tech enthusiast who thrives on exploring both hardware and software. My passion lies in both dissecting and fixing technology, embracing challenges that stretch the limits of innovation. At present, I am refining my expertise as a Full Stack Developer and a Junior DevOps Engineer, delving into the boundless realm of software engineering.
 
-Here are some ideas to get you started:
+Connect with me here:
+- [LinkedIn](https://www.linkedin.com/in/prakash-anandakumar/)
+- [Twitter/X](https://x.com/prakaxh2005)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm a 19-year-old Tech Enthusiast. Passionate about breaking and fixing things, especially when it comes to technologies. With a view for both hardware and software, Daily I swim on challenges that push the boundaries of technology. Currently, I'm sharpening my skills as a Full Stack Developer and a Jr.DevOps Engineer while exploring the endless possibilities of software engineering.<br>
-<!--[cv.isujith.dev](https://cv.isujith.dev)-->
-[LinkedIn](https://www.linkedin.com/in/prakash-anandakumar/)
-[Twitter/X](https://x.com/prakaxh2005)
+### 💻 Tech Expertise
 
-**Languages**<br>
-[![My Languages](https://skillicons.dev/icons?i=ts,js,bash,java,c,html5)](https://skillicons.dev)<br>
+**Programming Languages**<br>
+[![Programming Languages](https://skillicons.dev/icons?i=ts,js,bash,java,c,html5)](https://skillicons.dev)<br>
+
 **Frameworks**<br>
-[![My Frameworks](https://skillicons.dev/icons?i=react,next,tailwind,express,discordjs,prisma)](https://skillicons.dev)<br>
-**Databases**<br>
-[![My Databases](https://skillicons.dev/icons?i=postgres,redis,mongo,mysql)](https://skillicons.dev)<br>
-**Tools**<br>
-[![My Tools](https://skillicons.dev/icons?i=neovim,git,docker,linux,nginx)](https://skillicons.dev)<br>
-**Cloud**<br>
-[![My Cloud](https://skillicons.dev/icons?i=aws,gcp,cloudflare,netlify,vercel)](https://skillicons.dev)<br>
-## 🚀 **Nerdy Showcase Things**
+[![Frameworks](https://skillicons.dev/icons?i=react,next,tailwind,express,discordjs,prisma)](https://skillicons.dev)<br>
 
-### Centralized Server for College Lab
-🔍 **Problem:** Resource-heavy JDBC learning in college labs using Java8 and Oracle SQL.  
-💡 **Solution:** Refurbished old Rack server, deployed persistent Oracle and Postgres SQL Databases via Docker on Ubuntu server in my College.
+**Database Technologies**<br>
+[![Databases](https://skillicons.dev/icons?i=postgres,redis,mongo,mysql)](https://skillicons.dev)<br>
 
-### Storage Infrastructure for College
-🔍 **Problem:** Inefficient storage and sharing of installation files via USB in my College.  
-💡 **Solution:** Built & deployed mirror RAID NAS server using TrueNAS Free, configured firewall for campus-wide NAS access.
+**Development Tools**<br>
+[![Tools](https://skillicons.dev/icons?i=neovim,git,docker,linux,nginx)](https://skillicons.dev)<br>
 
-### HomeLab Adventures 🏡
-✨ **Motto:** Learn by doing, breaking and through curiosity.
+**Cloud Platforms**<br>
+[![Cloud](https://skillicons.dev/icons?i=aws,gcp,cloudflare,netlify,vercel)](https://skillicons.dev)<br>
 
-- **Gaming/Development Desk Setup**
-- **Full Home Networking (Up to 1Gbps)**
-- **NAS/Media Server/Mini Kubernetes Test/Learn Env**
-- **Password Manager/Docker Test Env/SQL, NoSQL, Redis Servers using Old Laptop & Raspberry Pis**
-- **Kubernetes Cluster using Rancher in Proxmox using Old Laptop**
-- **Remote WOL via Own IOT/WOL Project**
-- **Local DNS Server Setup with PiHole on Raspberry Pi for Homelab devices.**
+### 🚀 Tech Projects and Achievements
+
+#### Centralized Lab Server for College
+🔍 **Challenge:** Heavy resource consumption for JDBC learning using Java8 and Oracle SQL in college labs.  
+💡 **Solution:** Revitalized an old rack server, set up persistent Oracle and Postgres SQL databases using Docker on an Ubuntu server in my college.
+
+#### College Storage Infrastructure
+🔍 **Challenge:** Ineffective storage and file sharing through USB drives in my college.  
+💡 **Solution:** Constructed and deployed a mirrored RAID NAS server with TrueNAS Free, and configured a firewall for campus-wide NAS accessibility.
+
+#### HomeLab Ventures 🏡
+✨ **Philosophy:** Learn through hands-on experimentation, curiosity, and problem-solving.
+
+- **Gaming/Development Workspace**
+- **Comprehensive Home Networking (Up to 1Gbps)**
+- **NAS/Media Server/Mini Kubernetes Test/Learning Environment**
+- **Password Management/Docker Testing Environment/SQL, NoSQL, Redis Servers using Old Laptops & Raspberry Pis**
+- **Kubernetes Cluster with Rancher in Proxmox on an Old Laptop**
+- **Remote Wake-on-LAN via Custom IoT/WOL Project**
+- **Local DNS Server with PiHole on Raspberry Pi for HomeLab Devices**
+
+Feel free to get in touch if you want to discuss technology, collaborate on projects, or chat about the latest advancements in the tech world! 😄
