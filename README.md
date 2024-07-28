@@ -1,7 +1,7 @@
 <head><meta name="google-site-verification" content="5a7Km5KSDmHFNw2jrQpJaphMr9J5vjq7ty4CRMsyQSw" /></head>
 
 
-### Greetings! 👋
+### Greetings! 👋...
 
 I'm a 19-year-old tech enthusiast who thrives on exploring both hardware and software. My passion lies in both dissecting and fixing technology, embracing challenges that stretch the limits of innovation. At present, I am refining my expertise as a Full Stack Developer and a Junior DevOps Engineer, delving into the boundless realm of software engineering.
 
