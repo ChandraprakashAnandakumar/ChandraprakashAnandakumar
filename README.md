@@ -10,7 +10,7 @@ Connect with me here:
 ### 💻 Tech Expertise
 
 **Programming Languages**<br>
-[![Programming Languages](https://skillicons.dev/icons?i=ts,js,bash,java,c,html5)](https://skillicons.dev)<br>
+[![Programming Languages](https://skillicons.dev/icons?i=ts,js,java,c,html5)](https://skillicons.dev)<br>
 
 **Frameworks**<br>
 [![Frameworks](https://skillicons.dev/icons?i=react,next,tailwind,express,discordjs,prisma)](https://skillicons.dev)<br>
@@ -21,8 +21,8 @@ Connect with me here:
 **Development Tools**<br>
 [![Tools](https://skillicons.dev/icons?i=neovim,git,docker,linux,nginx)](https://skillicons.dev)<br>
 
-**Cloud Platforms**<br>
-[![Cloud](https://skillicons.dev/icons?i=aws,gcp,cloudflare,netlify,vercel)](https://skillicons.dev)<br>
+**Designing Platforms**<br>
+[![Cloud](https://skillicons.dev/icons?i=figma,ps,pr,canva)](https://skillicons.dev)<br>
 
 ### 🚀 Tech Projects and Achievements
 
