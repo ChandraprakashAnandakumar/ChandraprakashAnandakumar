@@ -1,26 +1,25 @@
 
-### Greetings! 👋..
+### <b><i>Greetings! 👋..</b></i>
 
 I'm a 19-year-old tech enthusiast who thrives on exploring both hardware and software. My passion lies in both dissecting and fixing technology, embracing challenges that stretch the limits of innovation. At present, I am refining my expertise as a Full Stack Developer and a Junior DevOps Engineer, delving into the boundless realm of software engineering.
 
-Connect with me here:
-**Linkedin**<br>
+Connect with me here:<br>
 [![Programming Languages](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/prakash-anandakumar/)
-- [Twitter/X](https://x.com/prakaxh2005)
+[![Programming Languages](https://skillicons.dev/icons?i=twitter)](https://x.com/prakaxh2005)<br>
 
 ### 💻 Tech Expertise
 
 **Programming Languages**<br>
-[![Programming Languages](https://skillicons.dev/icons?i=ts,js,java,c,html5)](https://skillicons.dev)<br>
+[![Programming Languages](https://skillicons.dev/icons?i=js,java,c,html,css,dart,php,python)](https://skillicons.dev)<br>
 
 **Frameworks**<br>
-[![Frameworks](https://skillicons.dev/icons?i=react,next,tailwind,express,discordjs,prisma)](https://skillicons.dev)<br>
+[![Frameworks](https://skillicons.dev/icons?i=react,next,arduino,)](https://skillicons.dev)<br>
 
 **Database Technologies**<br>
-[![Databases](https://skillicons.dev/icons?i=postgres,redis,mongo,mysql)](https://skillicons.dev)<br>
+[![Databases](https://skillicons.dev/icons?i=mongo,mysql,firebase)](https://skillicons.dev)<br>
 
 **Development Tools**<br>
-[![Tools](https://skillicons.dev/icons?i=neovim,git,docker,linux,nginx)](https://skillicons.dev)<br>
+[![Tools](https://skillicons.dev/icons?i=git,replit,linux,github,ubuntu,vscode)](https://skillicons.dev)<br>
 
 **Designing Platforms**<br>
 [![Cloud](https://skillicons.dev/icons?i=figma,ps,pr,canva)](https://skillicons.dev)<br>
