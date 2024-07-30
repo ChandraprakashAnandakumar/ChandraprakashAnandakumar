@@ -4,7 +4,8 @@
 I'm a 19-year-old tech enthusiast who thrives on exploring both hardware and software. My passion lies in both dissecting and fixing technology, embracing challenges that stretch the limits of innovation. At present, I am refining my expertise as a Full Stack Developer and a Junior DevOps Engineer, delving into the boundless realm of software engineering.
 
 Connect with me here:
-- [LinkedIn(https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)](https://www.linkedin.com/in/prakash-anandakumar/)
+**Linkedin**<br>
+[![Programming Languages](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/prakash-anandakumar/)
 - [Twitter/X](https://x.com/prakaxh2005)
 
 ### 💻 Tech Expertise
