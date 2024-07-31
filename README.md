@@ -24,6 +24,7 @@ Connect with me here:<br>
 **Designing Platforms**<br>
 [![Cloud](https://skillicons.dev/icons?i=figma,ps,pr,canva)](https://skillicons.dev)<br>
 
+<!--
 ### 🚀 Tech Projects and Achievements
 
 #### Centralized Lab Server for College
@@ -45,4 +46,4 @@ Connect with me here:<br>
 - **Remote Wake-on-LAN via Custom IoT/WOL Project**
 - **Local DNS Server with PiHole on Raspberry Pi for HomeLab Devices**
 
-Feel free to get in touch if you want to discuss technology, collaborate on projects, or chat about the latest advancements in the tech world! 😄
+Feel free to get in touch if you want to discuss technology, collaborate on projects, or chat about the latest advancements in the tech world! 😄 -->
